@@ -54,7 +54,7 @@ def main():
                 print("Exiting...")
                 break
             else:
-                print("  Invalid. Use 1, 0, or q")
+                print("  Invalid option. Use 1, 0, or q")
 
     except KeyboardInterrupt:
         print("\nStopped")
